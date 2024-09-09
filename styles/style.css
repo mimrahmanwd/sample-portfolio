@@ -43,3 +43,17 @@ h1{
 	background-repeat:no-repeat;
 	background-position:right;
 }
+
+.skills-box{
+	width:40%;
+	margin-left:5%;
+	margin-right:5%;
+	padding-left:20px;
+	box-shadow:10px 10px 10px gray;
+	border-radius:15px;
+	border-right:5px solid royalblue;
+	transition:3s;
+}
+.skills-box:hover{
+	transform:scale(1.1);
+}
