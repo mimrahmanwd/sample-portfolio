@@ -66,3 +66,20 @@ h1{
 	background-repeat:no-repeat;
 	background-position:left;
 }
+
+footer{
+	text-align:center;
+	font-size:15px;
+	margin:5px;
+}
+img{
+   height:auto;
+   width:70%;
+   transition:3s;
+   
+
+}
+img:hover{
+   transform:scale(1.1)
+   
+}
