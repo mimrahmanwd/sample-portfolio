@@ -1,0 +1,45 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+h1{
+    font-size:50px;
+}
+
+.purple{
+    color:rgb(151, 33, 112);
+}
+
+.fluid-container{
+    display:flex;
+	margin-bottom:100px;
+}
+.half-width{
+	width:50%;
+	padding:4%;
+}
+.half-width p{
+	margin-bottom:30px;
+	font-weight:lighter;
+}
+.half-width img{
+	width:60%;
+	padding-left:20px;
+}
+.btn{
+	color:white;
+	text-decoration:none;
+	background-image:linear-gradient(steelblue,purple);
+	font-weight:700;
+	padding:10px 40px;
+	border-radius:10px;
+}
+.top-banner{
+	background-image:url(images/top-banner.png);
+	background-repeat:no-repeat;
+}
+.dream-banner{
+	background-image:url(images/dream-bg.png);
+	background-repeat:no-repeat;
+	background-position:right;
+}
